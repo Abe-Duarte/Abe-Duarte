@@ -1,5 +1,5 @@
 <h1>Hi everyone! I'm Abraham Duarte</h1>
-I'm a Junior Frontend Developer passionated by tech, science, and space. My current skills are HTML (ofc), CSS and JavaScript.
+I'm a Computer Engineering student, interested in front-end development. Currently learning Javascript.
 
 <h2><b>Projects currently online:</b></h2>
 <ul>
