@@ -1,5 +1,5 @@
 <h2>Whoami</h2>
-<p>Continuing driven by new knowledge, I'm a student of the Computer Engineering degree, and additionaly, I constantly keep myself learning new front-end skills.</p>
+<p>Continually driven by new knowledge, I'm a student of the Computer Engineering degree, and additionaly, I constantly keep myself learning new front-end skills.</p>
 
 <h2>Directory of projects (Both, Github Repos and Github Pages URLs):</h2>
 <ul>
